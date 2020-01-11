@@ -9,5 +9,6 @@ public class Java25 {
         System.out.println(num + " squared is " + square);
         System.out.println(num + " cubed is " + cube);
         System.out.println("Square foot of " + num + "is" + sqrt);
+        System.out.println("Just add a ssh key to github");
     }
 }
