@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="85a2104e-e69c-4996-b6cd-53c2bfbcdb43" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/Java25.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java25.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java26.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java27.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java28.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/Java15.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled/Java15.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,7 +28,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1ULyL7VJsfuNsEoB6LDgbkE0A4C" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JAVA" />
@@ -50,21 +56,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Java15">
-    <configuration name="Java11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java11" />
-      <module name="untitled" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Java12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java12" />
-      <module name="untitled" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Java27">
     <configuration name="Java13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Java13" />
       <module name="untitled" />
@@ -86,20 +78,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Java26" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java26" />
+      <module name="untitled" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Java27" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java27" />
+      <module name="untitled" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.Java11" />
-      <item itemvalue="Application.Java12" />
       <item itemvalue="Application.Java13" />
       <item itemvalue="Application.Java14" />
       <item itemvalue="Application.Java15" />
+      <item itemvalue="Application.Java26" />
+      <item itemvalue="Application.Java27" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Java27" />
+        <item itemvalue="Application.Java26" />
         <item itemvalue="Application.Java15" />
         <item itemvalue="Application.Java14" />
         <item itemvalue="Application.Java13" />
-        <item itemvalue="Application.Java12" />
-        <item itemvalue="Application.Java11" />
       </list>
     </recent_temporary>
   </component>
