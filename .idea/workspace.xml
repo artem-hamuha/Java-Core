@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="85a2104e-e69c-4996-b6cd-53c2bfbcdb43" name="Default Changelist" comment="i played around with min and max in Math and also used float and int variables with Math">
-      <change afterPath="$PROJECT_DIR$/src/Java32.java" afterDir="false" />
+    <list default="true" id="85a2104e-e69c-4996-b6cd-53c2bfbcdb43" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Java33.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -42,7 +42,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -153,7 +153,14 @@
       <option name="project" value="LOCAL" />
       <updated>1579049294445</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="I created a lottery by generating random numbers">
+      <created>1579145354689</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1579145354689</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -173,7 +180,9 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="i used the functions round, floor, and ceil" />
     <MESSAGE value="i played around with min and max in Math and also used float and int variables with Math" />
-    <option name="LAST_COMMIT_MESSAGE" value="i played around with min and max in Math and also used float and int variables with Math" />
+    <MESSAGE value="i created a lottery" />
+    <MESSAGE value="I created a lottery by generating random numbers" />
+    <option name="LAST_COMMIT_MESSAGE" value="I created a lottery by generating random numbers" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
