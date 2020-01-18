@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="85a2104e-e69c-4996-b6cd-53c2bfbcdb43" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Java33.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java34.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -61,21 +61,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Java32">
-    <configuration name="Java14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java14" />
-      <module name="untitled" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Java15" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java15" />
-      <module name="untitled" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Java34">
     <configuration name="Java26" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Java26" />
       <module name="untitled" />
@@ -97,20 +83,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Java33" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java33" />
+      <module name="untitled" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Java34" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java34" />
+      <module name="untitled" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.Java14" />
-      <item itemvalue="Application.Java15" />
       <item itemvalue="Application.Java26" />
       <item itemvalue="Application.Java27" />
       <item itemvalue="Application.Java32" />
+      <item itemvalue="Application.Java33" />
+      <item itemvalue="Application.Java34" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Java34" />
+        <item itemvalue="Application.Java33" />
         <item itemvalue="Application.Java32" />
         <item itemvalue="Application.Java27" />
         <item itemvalue="Application.Java26" />
-        <item itemvalue="Application.Java15" />
-        <item itemvalue="Application.Java14" />
       </list>
     </recent_temporary>
   </component>
@@ -160,7 +160,14 @@
       <option name="project" value="LOCAL" />
       <updated>1579145354689</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="I found out how long a sentence was">
+      <created>1579223406732</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1579223406732</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -182,7 +189,8 @@
     <MESSAGE value="i played around with min and max in Math and also used float and int variables with Math" />
     <MESSAGE value="i created a lottery" />
     <MESSAGE value="I created a lottery by generating random numbers" />
-    <option name="LAST_COMMIT_MESSAGE" value="I created a lottery by generating random numbers" />
+    <MESSAGE value="I found out how long a sentence was" />
+    <option name="LAST_COMMIT_MESSAGE" value="I found out how long a sentence was" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
