@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="85a2104e-e69c-4996-b6cd-53c2bfbcdb43" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Java36.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java37.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java38.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -181,7 +182,14 @@
       <option name="project" value="LOCAL" />
       <updated>1579488931881</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="manipulating characters/letters">
+      <created>1579491330077</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1579491330077</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -206,7 +214,8 @@
     <MESSAGE value="I found out how long a sentence was" />
     <MESSAGE value="lowercasing" />
     <MESSAGE value="searching strings" />
-    <option name="LAST_COMMIT_MESSAGE" value="searching strings" />
+    <MESSAGE value="manipulating characters/letters" />
+    <option name="LAST_COMMIT_MESSAGE" value="manipulating characters/letters" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
