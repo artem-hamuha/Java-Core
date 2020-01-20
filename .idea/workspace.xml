@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="85a2104e-e69c-4996-b6cd-53c2bfbcdb43" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Java34.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java35.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Java34.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java34.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -167,7 +168,14 @@
       <option name="project" value="LOCAL" />
       <updated>1579223406732</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="lowercasing">
+      <created>1579317613770</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1579317613770</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -190,7 +198,8 @@
     <MESSAGE value="i created a lottery" />
     <MESSAGE value="I created a lottery by generating random numbers" />
     <MESSAGE value="I found out how long a sentence was" />
-    <option name="LAST_COMMIT_MESSAGE" value="I found out how long a sentence was" />
+    <MESSAGE value="lowercasing" />
+    <option name="LAST_COMMIT_MESSAGE" value="lowercasing" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
