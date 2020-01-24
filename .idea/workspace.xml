@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="85a2104e-e69c-4996-b6cd-53c2bfbcdb43" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Java37.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java38.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Data.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Draw.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java39.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java40.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -189,7 +191,14 @@
       <option name="project" value="LOCAL" />
       <updated>1579491330077</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Forming multiple methods">
+      <created>1579553388148</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1579553388148</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -215,7 +224,8 @@
     <MESSAGE value="lowercasing" />
     <MESSAGE value="searching strings" />
     <MESSAGE value="manipulating characters/letters" />
-    <option name="LAST_COMMIT_MESSAGE" value="manipulating characters/letters" />
+    <MESSAGE value="Forming multiple methods" />
+    <option name="LAST_COMMIT_MESSAGE" value="Forming multiple methods" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
