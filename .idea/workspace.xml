@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="85a2104e-e69c-4996-b6cd-53c2bfbcdb43" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Data.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Draw.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AlgoDrawTriangle.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Java39.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java40.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java41.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -64,9 +63,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Java34">
-    <configuration name="Java26" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java26" />
+  <component name="RunManager" selected="Application.AlgoDrawTriangle">
+    <configuration name="AlgoDrawTriangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AlgoDrawTriangle" />
       <module name="untitled" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -101,19 +100,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Java26" />
       <item itemvalue="Application.Java27" />
       <item itemvalue="Application.Java32" />
       <item itemvalue="Application.Java33" />
       <item itemvalue="Application.Java34" />
+      <item itemvalue="Application.AlgoDrawTriangle" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AlgoDrawTriangle" />
         <item itemvalue="Application.Java34" />
         <item itemvalue="Application.Java33" />
         <item itemvalue="Application.Java32" />
         <item itemvalue="Application.Java27" />
-        <item itemvalue="Application.Java26" />
       </list>
     </recent_temporary>
   </component>
@@ -198,7 +197,14 @@
       <option name="project" value="LOCAL" />
       <updated>1579553388148</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="forming multiple classes">
+      <created>1579833379548</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1579833379548</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -225,7 +231,8 @@
     <MESSAGE value="searching strings" />
     <MESSAGE value="manipulating characters/letters" />
     <MESSAGE value="Forming multiple methods" />
-    <option name="LAST_COMMIT_MESSAGE" value="Forming multiple methods" />
+    <MESSAGE value="forming multiple classes" />
+    <option name="LAST_COMMIT_MESSAGE" value="forming multiple classes" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
