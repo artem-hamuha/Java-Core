@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="85a2104e-e69c-4996-b6cd-53c2bfbcdb43" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/AlgoDrawTriangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java39.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java41.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java42.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaSub42.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -28,6 +27,12 @@
       <list>
         <option value="Artem Hamuha &lt;artem.hamuha@gmail.com&gt;" />
       </list>
+    </option>
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--follow-tags" />
+        <option name="title" value="Current Branch" />
+      </GitPushTagMode>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
@@ -204,7 +209,14 @@
       <option name="project" value="LOCAL" />
       <updated>1579833379548</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="random loops(literally practice)">
+      <created>1579934507527</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1579934507527</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -232,7 +244,8 @@
     <MESSAGE value="manipulating characters/letters" />
     <MESSAGE value="Forming multiple methods" />
     <MESSAGE value="forming multiple classes" />
-    <option name="LAST_COMMIT_MESSAGE" value="forming multiple classes" />
+    <MESSAGE value="random loops(literally practice)" />
+    <option name="LAST_COMMIT_MESSAGE" value="random loops(literally practice)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
