@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="85a2104e-e69c-4996-b6cd-53c2bfbcdb43" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Java42.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaSub42.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java43.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaSub43.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -216,7 +215,14 @@
       <option name="project" value="LOCAL" />
       <updated>1579934507527</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Extending a class">
+      <created>1580094554527</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1580094554527</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -245,7 +251,8 @@
     <MESSAGE value="Forming multiple methods" />
     <MESSAGE value="forming multiple classes" />
     <MESSAGE value="random loops(literally practice)" />
-    <option name="LAST_COMMIT_MESSAGE" value="random loops(literally practice)" />
+    <MESSAGE value="Extending a class" />
+    <option name="LAST_COMMIT_MESSAGE" value="Extending a class" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
