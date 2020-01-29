@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="85a2104e-e69c-4996-b6cd-53c2bfbcdb43" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Java44.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaSub44.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java45.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaSub45.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -229,7 +229,14 @@
       <option name="project" value="LOCAL" />
       <updated>1580180498551</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="producing an object instance">
+      <created>1580182084035</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1580182084035</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -260,7 +267,8 @@
     <MESSAGE value="random loops(literally practice)" />
     <MESSAGE value="Extending a class" />
     <MESSAGE value="creating an object class" />
-    <option name="LAST_COMMIT_MESSAGE" value="creating an object class" />
+    <MESSAGE value="producing an object instance" />
+    <option name="LAST_COMMIT_MESSAGE" value="producing an object instance" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
