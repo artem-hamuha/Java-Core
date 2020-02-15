@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="85a2104e-e69c-4996-b6cd-53c2bfbcdb43" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Video2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Video3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -67,16 +67,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.AlgoDrawTriangle">
+  <component name="RunManager" selected="Application.Video3">
     <configuration name="AlgoDrawTriangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AlgoDrawTriangle" />
-      <module name="untitled" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Java27" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java27" />
       <module name="untitled" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -103,20 +96,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Video3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Video3" />
+      <module name="untitled" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.Java27" />
       <item itemvalue="Application.Java32" />
       <item itemvalue="Application.Java33" />
       <item itemvalue="Application.Java34" />
       <item itemvalue="Application.AlgoDrawTriangle" />
+      <item itemvalue="Application.Video3" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Video3" />
         <item itemvalue="Application.AlgoDrawTriangle" />
         <item itemvalue="Application.Java34" />
         <item itemvalue="Application.Java33" />
         <item itemvalue="Application.Java32" />
-        <item itemvalue="Application.Java27" />
       </list>
     </recent_temporary>
   </component>
@@ -250,7 +250,14 @@
       <option name="project" value="LOCAL" />
       <updated>1581562586351</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="just watching a tutorial to get info part 2">
+      <created>1581659187991</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1581659187991</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -284,7 +291,8 @@
     <MESSAGE value="producing an object instance" />
     <MESSAGE value="Encapsulating properties" />
     <MESSAGE value="just watchinf a tutorial to get info part 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="just watchinf a tutorial to get info part 1" />
+    <MESSAGE value="just watching a tutorial to get info part 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="just watching a tutorial to get info part 2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
