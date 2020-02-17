@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="85a2104e-e69c-4996-b6cd-53c2bfbcdb43" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Video3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Video3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Video3.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -257,7 +257,14 @@
       <option name="project" value="LOCAL" />
       <updated>1581659187991</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="just watching a tutorial to get info part 3">
+      <created>1581736636856</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1581736636856</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -292,7 +299,8 @@
     <MESSAGE value="Encapsulating properties" />
     <MESSAGE value="just watchinf a tutorial to get info part 1" />
     <MESSAGE value="just watching a tutorial to get info part 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="just watching a tutorial to get info part 2" />
+    <MESSAGE value="just watching a tutorial to get info part 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="just watching a tutorial to get info part 3" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
